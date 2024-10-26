@@ -1,0 +1,1 @@
+export { default } from "file:///media/ma_guy/Work%20Related/Koby%20west/koby-handls/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
