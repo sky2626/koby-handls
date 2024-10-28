@@ -12,7 +12,7 @@
                 Follow us on x
             </a>
             <a href="https://www.instagram.com/kobbywestcouture/"
-                class="w-full bg-gradient-to-r from-[#f9ce34] via-[#ee2a7b] to-[#6228d7]  rounded p-1 text-lg font-semibold text-center">
+                class="w-full bg-gradient-to-r from-[#f9ce34] via-[#ee2a7b] to-[#6228d7]  rounded p-1 text-lg font-semibold text-center px-2">
                 <iconsX />
                 Follow us on Instagram
             </a>
